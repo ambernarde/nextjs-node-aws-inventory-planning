@@ -2,6 +2,7 @@
 import { useAppDispatch, useAppSelector } from '@/redux';
 import { setIsSidebarCollapsed } from '@/app/state';
 /*tsrafce*/
+/*codesnipped*/
 import { Archive, CircleDollarSign, Clipboard, Layout, LucideIcon, Menu, Settings, SlidersHorizontal, User } from 'lucide-react'
 import React from 'react'
 import { usePathname } from 'next/navigation';
